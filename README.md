@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @trak3r
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on new security project like IDS and so on..
 - 📫 How to reach me : ????@????.???
 
 <!---
